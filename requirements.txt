@@ -3,7 +3,7 @@ numpy==1.18.2
 baked===0.2.2
 pytest-blockage==0.1
 django-statsd-patches==0.0.1
-django==2.2.3
+django==4.1.1
 snipit==1.0
 mongars==0.6.0
 andymckay-sample==0.0.1
